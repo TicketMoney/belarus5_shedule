@@ -1,0 +1,5 @@
+aiogram
+python-docx
+python-telegram-bot
+schedule
+pytz
